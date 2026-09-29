@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or discuss IDQA, please cite this working specification."
+title: "Intent-Driven Quality Assurance (IDQA): Working Specification and Research Agenda"
+version: "0.1"
+date-released: "2026-09-28"
+authors:
+  - family-names: "Costa"
+    given-names: "Rodrigo Candido"
+    affiliation: "IsenForge Research"
+    orcid: "https://orcid.org/0009-0000-2604-9564"
+url: "https://isenforge.com/idqa/specification/v0.1/"
+abstract: >-
+  Intent-Driven Quality Assurance (IDQA) is a methodological research proposal
+  that connects software intent to explicit guarantees, evidence requirements,
+  evidence strategies, observations and bounded assurance conclusions.
+keywords:
+  - software quality assurance
+  - software assurance
+  - intent-driven quality assurance
+  - software testing
+  - evidence
+  - compositional assurance
+
+
+license: CC-BY-NC-4.0
