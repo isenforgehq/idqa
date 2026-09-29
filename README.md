@@ -51,7 +51,9 @@ Current research questions include:
 
 Costa, Rodrigo Candido. “Intent-Driven Quality Assurance (IDQA): Working Specification and Research Agenda.” Version 0.1. IsenForge Research, 28 September 2026.
 
-DOI: pending.
+Version DOI: https://doi.org/10.5281/zenodo.23032992
+
+All-versions DOI: https://doi.org/10.5281/zenodo.23032991
 
 ORCID: https://orcid.org/0009-0000-2604-9564
 
