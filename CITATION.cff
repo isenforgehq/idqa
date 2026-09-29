@@ -23,3 +23,9 @@ keywords:
 
 
 license: CC-BY-NC-4.0
+
+doi: "10.5281/zenodo.23032992"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23032991"
+    description: "All-versions DOI for the IDQA research record"
