@@ -108,9 +108,10 @@ This working specification and the public IDQA methodology text are licensed und
 
 Costa, Rodrigo Candido. “Intent-Driven Quality Assurance (IDQA): Working Specification and Research Agenda.” Version 0.1. IsenForge Research, 28 September 2026. https://isenforge.com/idqa/specification/v0.1/
 
-DOI: pending.  
-ORCID linkage: pending.  
+Version DOI: https://doi.org/10.5281/zenodo.23032992  
+All-versions DOI: https://doi.org/10.5281/zenodo.23032991  
+ORCID: https://orcid.org/0009-0000-2604-9564  
 Peer review: not yet peer reviewed.
 
-Future versions will preserve the v0.1 record rather than silently overwriting its intellectual history.
+Future versions will preserve the v0.1 record rather than silently overwriting its intellectual history. The persistent DOI for this archived version is 10.5281/zenodo.23032992; the all-versions DOI is 10.5281/zenodo.23032991.
 
